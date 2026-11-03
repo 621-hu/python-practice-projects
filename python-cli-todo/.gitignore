@@ -1,0 +1,8 @@
+# 任务数据（运行时自动生成）
+todo.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
